@@ -1,24 +1,3 @@
 # weatherapp
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![477750](https://user-images.githubusercontent.com/104463962/175188944-024383e2-3adf-4e7c-be59-f71f103863d2.jpg)
